@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/6.824.iml
+.idea/inspectionProfiles/
+.idea/modules.xml
+.idea/workspace.xml
+Would skip repository src/src/github.com/nsf/gocode
+Would skip repository src/src/github.com/rogpeppe/godef
+Would skip repository src/src/golang.org/x/tools

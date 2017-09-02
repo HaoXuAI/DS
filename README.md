@@ -1,5 +1,5 @@
 # DS
-A distributed system designed and built based on the MIT course 6.824 - Distributed system
+A homework repo built based on the MIT course 6.824 - Distributed system
 
 Author: Hao Xu
 
